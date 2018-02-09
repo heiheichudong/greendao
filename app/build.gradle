@@ -50,5 +50,6 @@ dependencies {
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.1'
     compile 'org.greenrobot:greendao:3.2.2'
     implementation 'com.android.support:recyclerview-v7:26.1.0'
+    implementation 'cn.bingoogolapple:bga-baseadapter:1.2.9@aar'
     implementation project(':greentest')
 }
