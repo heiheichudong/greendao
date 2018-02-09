@@ -10,6 +10,6 @@ class DataActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_data)
-        rv_db_data.layoutManager = RecyclerView.LayoutManager();
+//        rv_db_data.layoutManager = RecyclerView.LayoutManager();
     }
 }
